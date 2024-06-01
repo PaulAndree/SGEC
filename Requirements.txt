@@ -7,3 +7,5 @@ requests==2.31.0
 fastapi==0.110.3
 pydantic==2.7.1
 uvicorn==0.29.0
+python-multipart
+python-dotenv

@@ -7,11 +7,18 @@ import shutil
 import json
 import time
 import uvicorn
+import os
+
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
+#server1 "https://librairy.linkeddata.es/ollama" #remote
+#server2 = "http://127.0.0.1:11434" #localPaul
+#server3 "https://splendid-warthog-helpful.ngrok-free.app #cesvima
 
-#server = "https://librairy.linkeddata.es/ollama" #remote
-server = "http://127.0.0.1:11434" #localPaul
+server = os.environ.get('SESSION_API_URL')
 
 app = FastAPI()
 
