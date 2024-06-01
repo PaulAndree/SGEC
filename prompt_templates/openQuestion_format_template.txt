@@ -1,0 +1,12 @@
+El texto que debes usar es este:
+    ---------------------
+    {context}
+    ---------------------
+        
+Es obligatorio que el resultado sea formateado en el siguiente esquema:
+    
+    ```json
+    {{
+    	"PREGUNTA": "string"  // tu pregunta generada usando la información del contexto
+    }}
+    ```

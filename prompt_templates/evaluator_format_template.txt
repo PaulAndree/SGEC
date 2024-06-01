@@ -1,0 +1,15 @@
+Debes evaluar la respuesta del estudiante y dar un puntaje. Para evaluar la respuesta tienes que usar el texto que tienes más abajo como fuente de referencia. Si la respuesta es incorrecta el puntaje deberá ser de 0 puntos. En caso que la respuesta sea parcialmente correcta el puntaje deberá ser de 0.5 puntos. Y en caso que la respuesta sea totalmente o suficientemente correcta el puntaje deberá ser de 1 punto. Si la respuesta del estudiante está vacía o responde 'no sé' entonces el puntaje será directamente 0 puntos. 
+    --------------------------
+    La pregunta es: {question}
+    Respuesta del estudiante: {answer}
+    Texto: {context}
+    --------------------------
+
+Es obligatorio que tu respuesta sea formateada con el siguiente esquema:
+    
+    ```json
+    {{
+        "PUNTAJE": "string"  // puntaje final de la respuesta,
+        "EXPLICACION": "string"  // explicación y justificación del puntaje
+    }}
+    ```

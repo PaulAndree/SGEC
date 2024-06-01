@@ -1,0 +1,250 @@
+############### imprimiendo 0 de 10 #################
+{
+  "PREGUNTA": "¿Cómo se utiliza la biotecnología en la agricultura para desarrollar cultivos resistentes a enfermedades y plagas?",
+  "OPCION1": "Para producir alimentos modificados genéticamente",
+  "OPCION2": "Para tratar enfermedades genéticas",
+  "OPCION3": "Para desarrollar terapias génicas",
+  "OPCION4": "Para desarrollar cultivos resistentes a enfermedades y plagas",
+  "EVIDENCIA": "La biotecnología se utiliza en la agricultura para desarrollar cultivos que sean resistentes a enfermedades y plagas, lo que aumenta la producción y reduce el uso de pesticidas y herbicidas."
+}
+{
+  "PREGUNTA": "¿Cuál es el objetivo principal de la ingeniería genética?",
+  "OPCION1": "Producir combustibles",
+  "OPCION2": "Desarrollar terapias génicas",
+  "OPCION3": "Mejorar la agricultura",
+  "OPCION4": "Modificar organismos vivos para producir medicamentos y alimentos modificados genéticamente",
+  "EVIDENCIA": "La respuesta correcta es 'Modificar organismos vivos para producir medicamentos y alimentos modificados genéticamente' porque según el texto, la ingeniería genética se utiliza para modificar los organismos vivos para producir medicamentos, alimentos modificados genéticamente y terapias génicas."
+}
+{
+  "PREGUNTA": "¿Qué aplicación se utiliza en la agricultura?",
+  "OPCION1": "La ingeniería aeroespacial",
+  "OPCION2": "El desarrollo de energía solar",
+  "OPCION3": "La producción de biocombustibles",
+  "OPCION4": "Desarrollar cultivos resistentes a enfermedades y plagas",
+  "EVIDENCIA": "Según el texto, la biotecnología se utiliza en la agricultura para desarrollar cultivos resistentes a enfermedades y plagas."
+}
+############### imprimiendo 1 de 10 #################
+{
+  "PREGUNTA": "¿Cuál fue el grupo musical en el que Beyoncé actuó antes de ser solista?",
+  "OPCION1": "Lady Gaga",
+  "OPCION2": "Katy Perry",
+  "OPCION3": "Taylor Swift",
+  "OPCION4": "Destiny's Child",
+  "EVIDENCIA": "Beyoncé fue miembro del grupo femenino de R&B Destiny's Child antes de lanzar su carrera como solista."
+}
+{
+  "PREGUNTA": "¿Qué grupo musical debutó Beyoncé como cantante?",
+  "OPCION1": "Destiny's Child",
+  "OPCION2": "Lady Gaga",
+  "OPCION3": "Taylor Swift",
+  "OPCION4": "Destiny's Child",
+  "EVIDENCIA": "Según el texto, Beyoncé saltó a la fama como cantante del grupo femenino de R & B Destiny's Child."
+}
+{
+  "PREGUNTA": "¿En qué ciudad nació Beyoncé?",
+  "OPCION1": "Nueva York",
+  "OPCION2": "Miami",
+  "OPCION3": "Chicago",
+  "OPCION4": "Houston",
+  "EVIDENCIA": "Según el texto, Beyoncé nació y se crio en Houston, Texas."
+}
+############### imprimiendo 2 de 10 #################
+{
+  "PREGUNTA": "¿Qué astrónomo francés realizó cálculos para predecir la existencia y posición de un planeta más allá de Urano?",
+  "OPCION1": "John Couch Adams",
+  "OPCION2": "Johann Gottfried Galle",
+  "OPCION3": "Isaac Newton",
+  "OPCION4": "Urbain Le Verrier",
+  "EVIDENCIA": "Le Verrier realizó cálculos independientes para predecir la existencia y posición de Neptuno, lo que finalmente se confirmó con el descubrimiento del planeta en 1846."
+}
+{
+  "PREGUNTA": "¿Qué descubrimiento astronómico validó la teoría de Newton?",
+  "OPCION1": "El descubrimiento del planeta Marte",
+  "OPCION2": "La observación de un cometa",
+  "OPCION3": "La predicción de un eclipse solar",
+  "OPCION4": "El descubrimiento del planeta Neptuno cerca de la posición predicha",
+  "EVIDENCIA": "El descubrimiento de Neptuno validó la teoría de Newton y demostró la utilidad de las matemáticas en la predicción de fenómenos astronómicos."
+}
+{
+  "PREGUNTA": "¿Cuál fue el resultado del cálculo realizado por Le Verrier y Adams?",
+  "OPCION1": "La existencia de un planeta más allá de Urano",
+  "OPCION2": "El descubrimiento de un nuevo tipo de estrella",
+  "OPCION3": "La confirmación de la teoría de Newton sobre la gravitación",
+  "OPCION4": "La observación de Neptuno cerca de la posición predicha",
+  "EVIDENCIA": "Le Verrier y Adams realizaron cálculos para predecir la existencia y posición de un planeta más allá de Urano, lo que finalmente se confirmó con el descubrimiento de Neptuno por Galle."
+}
+############### imprimiendo 3 de 10 #################
+{
+  "PREGUNTA": "¿Cómo puede la inteligencia artificial analizar grandes conjuntos de datos médicos para identificar patrones y tendencias?",
+  "OPCION1": "Utilizando algoritmos de aprendizaje automático",
+  "OPCION2": "A través de la utilización de redes neuronales",
+  "OPCION3": "Análisis manual por expertos médicos",
+  "OPCION4": "Analizando grandes conjuntos de datos médicos para identificar patrones y tendencias",
+  "EVIDENCIA": "La inteligencia artificial puede analizar grandes conjuntos de datos médicos para identificar patrones y tendencias mediante el uso de algoritmos de aprendizaje automático, lo que permite a los sistemas médicos mejorar el diagnóstico y tratamiento de enfermedades."
+}
+{
+  "PREGUNTA": "¿Qué campo se utiliza para mejorar el diagnóstico y tratamiento de enfermedades con la IA?",
+  "OPCION1": "La educación",
+  "OPCION2": "El transporte",
+  "OPCION3": "La agricultura",
+  "OPCION4": "La medicina",
+  "EVIDENCIA": "Según el texto, la IA se utiliza en la medicina para analizar grandes conjuntos de datos médicos y mejorar el diagnóstico y tratamiento de enfermedades."
+}
+{
+  "PREGUNTA": "¿Qué campo utiliza la inteligencia artificial para mejorar el diagnóstico y tratamiento de enfermedades?",
+  "OPCION1": "La educación",
+  "OPCION2": "El transporte",
+  "OPCION3": "La agricultura",
+  "OPCION4": "La medicina",
+  "EVIDENCIA": "Según el texto, la inteligencia artificial se utiliza en la medicina para mejorar el diagnóstico y tratamiento de enfermedades."
+}
+############### imprimiendo 4 de 10 #################
+{
+  "PREGUNTA": "¿Cuál es el principal desafío que enfrenta la simulación computacional de la cognición humana?",
+  "OPCION1": "La falta de datos precisos sobre el cerebro humano",
+  "OPCION2": "La complejidad del lenguaje humano",
+  "OPCION3": "La limitación de los recursos informáticos",
+  "OPCION4": "La falta de un marco teórico unificado para modelar la cognición",
+  "EVIDENCIA": "La respuesta correcta es la falta de un marco teórico unificado para modelar la cognición, ya que este paradigma busca emular los procesos neuronales y cognitivos del cerebro humano en sistemas artificiales, lo que requiere una comprensión profunda de la mente humana y un marco teórico coherente para modelar la cognición."
+}
+{
+  "PREGUNTA": "¿Cuál es el objetivo principal de la simulación computacional de la cognición humana?",
+  "OPCION1": "Estudiar la evolución del cerebro humano",
+  "OPCION2": "Desarrollar un sistema operativo más eficiente",
+  "OPCION3": "Crear un modelo predictivo para el clima",
+  "OPCION4": "Comprender mejor la mente humana y replicar sus capacidades en máquinas",
+  "EVIDENCIA": "Según el texto, el objetivo principal es comprender mejor la mente humana y replicar sus capacidades en máquinas."
+}
+{
+  "PREGUNTA": "¿Qué objetivo tiene la simulación computacional de la cognición humana?",
+  "OPCION1": "Estudiar el comportamiento animal",
+  "OPCION2": "Desarrollar un nuevo tipo de inteligencia artificial",
+  "OPCION3": "Crear robots más avanzados",
+  "OPCION4": "Comprender mejor la mente humana y replicar sus capacidades en máquinas",
+  "EVIDENCIA": "Según el texto, el objetivo es comprender mejor la mente humana y replicar sus capacidades en máquinas."
+}
+############### imprimiendo 5 de 10 #################
+{
+  "PREGUNTA": "¿Cómo se relacionan las jerarquías organizativas en el proceso de producción de conocimiento universitario con su aplicación en la sociedad?",
+  "OPCION1": "No hay relación directa",
+  "OPCION2": "La autonomía del investigador es suficiente para garantizar una aplicación responsable",
+  "OPCION3": "El conocimiento científico se aplica automáticamente en la sociedad",
+  "OPCION4": "La irresponsabilidad social de los investigadores puede generar desequilibrios en la aplicación del conocimiento",
+  "EVIDENCIA": "Según el texto, la autonomía del investigador se traduce en una cierta irresponsabilidad social frente a los resultados de la aplicación del conocimiento, lo que sugiere que las jerarquías organizativas pueden influir negativamente en la aplicación del conocimiento en la sociedad."
+}
+{
+  "PREGUNTA": "¿Cuál es el resultado de considerar que el conocimiento universitario es predominantemente disciplinar?",
+  "OPCION1": "Es un conocimiento muy diversificado",
+  "OPCION2": "Es un conocimiento muy contextualizado",
+  "OPCION3": "Es un conocimiento muy aplicado",
+  "OPCION4": "Es un conocimiento relativamente descontextualizado con relación a las necesidades del mundo cotidiano de las sociedades",
+  "EVIDENCIA": "Según el texto, el conocimiento universitario es predominantemente disciplinar y su autonomía impuso un proceso de producción relativamente descontextualizado con relación a las necesidades del mundo cotidiano de las sociedades."
+}
+{
+  "PREGUNTA": "¿Qué tipo de conocimiento se describe en el texto como predominantemente disciplinar?",
+  "OPCION1": "Conocimiento práctico",
+  "OPCION2": "Conocimiento aplicado",
+  "OPCION3": "Conocimiento científico",
+  "OPCION4": "Conocimiento universitario",
+  "EVIDENCIA": "El texto describe el conocimiento universitario como predominantemente disciplinar, lo que implica que se enfoca en la producción de conocimiento dentro de un campo específico y no tiene una aplicación directa en el mundo cotidiano."
+}
+############### imprimiendo 6 de 10 #################
+{
+  "PREGUNTA": "¿Cuál es el principal motivo que algunas personas tienen para no vacunarse?",
+  "OPCION1": "La falta de recursos económicos",
+  "OPCION2": "La desconfianza en la eficacia de las vacunas",
+  "OPCION3": "El miedo a los efectos secundarios",
+  "OPCION4": "La desconfianza en la seguridad de las vacunas",
+  "EVIDENCIA": "Según el texto, el principal motivo que algunas personas tienen para no vacunarse es la desconfianza en la seguridad de las vacunas."
+}
+{
+  "PREGUNTA": "¿Qué conclusión se puede sacar sobre las vacunas después de leer el texto?",
+  "OPCION1": "Las vacunas son peligrosas",
+  "OPCION2": "No hay beneficio en vacunarse",
+  "OPCION3": "Las vacunas no son efectivas",
+  "OPCION4": "El beneficio de las vacunas siempre compensa el riesgo",
+  "EVIDENCIA": "Según el texto, aunque las vacunas pueden tener efectos secundarios graves, el beneficio de protegerse contra enfermedades supera con creces el extremadamente bajo riesgo de vacunarse."
+}
+{
+  "PREGUNTA": "¿Qué tipo de efectos secundarios pueden tener las vacunas?",
+  "OPCION1": "Sólo leves",
+  "OPCION2": "Solo graves",
+  "OPCION3": "Ninguno",
+  "OPCION4": "Leves, graves y muy graves",
+  "EVIDENCIA": "Según el texto, aunque es infrecuente, las vacunas pueden tener efectos secundarios leves, graves o muy graves."
+}
+############### imprimiendo 7 de 10 #################
+{
+  "PREGUNTA": "¿Cuál es el efecto más comúnmente citado como consecuencia negativa de las vacunas?",
+  "OPCION1": "La viruela",
+  "OPCION2": "El autismo",
+  "OPCION3": "Las alergias",
+  "OPCION4": "La esclerosis múltiple y el Alzheimer",
+  "EVIDENCIA": "Aunque se han mencionado varios efectos secundarios negativos, la mayoría de las acusaciones no se sostienen. La respuesta correcta es que los grupos antivacunas tienden a infravalorar de forma excesiva las complicaciones de las enfermedades infecciosas y magnifican los efectos secundarios de las vacunas."
+}
+{
+  "PREGUNTA": "¿Qué consecuencia negativa se extendió por el 'boca a boca' y los medios?",
+  "OPCION1": "La viruela",
+  "OPCION2": "El Alzheimer",
+  "OPCION3": "Las alergias",
+  "OPCION4": "El autismo",
+  "EVIDENCIA": "Según el texto, el autismo se extendió por el 'boca a boca' y los medios después de que un estudio falseado relacionó la vacuna de la triple vírica con el autismo."
+}
+{
+  "PREGUNTA": "¿Cuál fue el estudio publicado en 1998 que relacionó la vacuna de la triple vírica con el autismo?",
+  "OPCION1": "Un estudio sobre la eficacia de las vacunas",
+  "OPCION2": "Un informe sobre la historia de la medicina moderna",
+  "OPCION3": "Un artículo sobre la importancia del ejercicio regular",
+  "OPCION4": "Un estudio publicado en The Lancet que relacionó la vacuna de la triple vírica con el autismo",
+  "EVIDENCIA": "El estudio publicado en 1998 fue un caso emblemático de cómo la información falsa puede generar miedo y desconfianza hacia las vacunas."
+}
+############### imprimiendo 8 de 10 #################
+{
+  "PREGUNTA": "¿Cómo se relaciona el antropomorfismo con la evolución y la inteligencia animal?",
+  "OPCION1": "Es un concepto exclusivo de la filosofía griega",
+  "OPCION2": "Se refiere a la capacidad de los animales para razonar como los humanos",
+  "OPCION3": "Es una forma de atribuir características humanas a las especies no humanas",
+  "OPCION4": "Es un proceso natural que permite comprender la continuidad entre seres humanos y animales",
+  "EVIDENCIA": "El antropomorfismo se refiere a la tendencia de atribuir características humanas a otras especies, lo que puede ayudar a comprender la evolución y la inteligencia animal. La evidencia sugiere que nuestra especie forma parte de un mundo natural en el que no existen escalones que permitan llegar hasta ahí, por lo que es lógico considerar el antropomorfismo como un proceso natural que permite comprender la continuidad entre seres humanos y animales."
+}
+{
+  "PREGUNTA": "¿Qué crítica hace el texto al antropomorfismo?",
+  "OPCION1": "Lo considera un error",
+  "OPCION2": "Lo ve como una forma de simplificar",
+  "OPCION3": "Lo critica por ser inexacto",
+  "OPCION4": "Lo critica porque niega la continuidad entre humanos y animales",
+  "EVIDENCIA": "El texto argumenta que el antropomorfismo no es tan malo como se piensa, ya que nuestra especie forma parte de un mundo natural en el que no existen escalones para llegar a la planificación, empatía y conciencia."
+}
+{
+  "PREGUNTA": "¿Qué filósofo griego se burló de la poesía de Homero porque describía a los dioses como si tuvieran aspecto humano?",
+  "OPCION1": "Sócrates",
+  "OPCION2": "Platón",
+  "OPCION3": "Aristóteles",
+  "OPCION4": "Jenófanes",
+  "EVIDENCIA": "Jenófanes se burló de la poesía de Homero porque describía a los dioses como si tuvieran aspecto humano, lo que es el origen del término antropomorfismo."
+}
+############### imprimiendo 9 de 10 #################
+{
+  "PREGUNTA": "¿Cuál fue el principal error en la teoría de frenología sobre el cerebro?",
+  "OPCION1": "La idea de que el cerebro era un agregado de muchos órganos",
+  "OPCION2": "La creencia de que cada órgano cerebral separado generaba facultades mentales",
+  "OPCION3": "La noción de que los órganos podían identificarse desde el exterior por protuberancias reveladoras en el cráneo",
+  "OPCION4": "La idea de que la función de cada parte diferenciada del cerebro no es independiente y que, en cambio, es una contribución a la función de sistemas mayores compuestos por estas partes separadas",
+  "EVIDENCIA": "Según la neurociencia contemporánea, la función de cada parte diferenciada del cerebro no es independiente y que, en cambio, es una contribución a la función de sistemas mayores compuestos por estas partes separadas."
+}
+{
+  "PREGUNTA": "¿Qué influencia tuvo la frenología en la ciencia y las humanidades?",
+  "OPCION1": "Ninguna",
+  "OPCION2": "Poca",
+  "OPCION3": "Moderada",
+  "OPCION4": "Notable",
+  "EVIDENCIA": "La frenología surgió como una curiosa mezcolanza de psicología temprana, neurociencia temprana y filosofía práctica. Tuvo una notable influencia en la ciencia y las humanidades, a lo largo de la mayor parte del siglo XIX."
+}
+{
+  "PREGUNTA": "¿Quién fundó la frenología?",
+  "OPCION1": "Albert Einstein",
+  "OPCION2": "Charles Darwin",
+  "OPCION3": "Leonardo da Vinci",
+  "OPCION4": "Franz Joseph Gall",
+  "EVIDENCIA": "La frenología fue fundada por Franz Joseph Gall a finales del siglo XVIII en Europa."
+}

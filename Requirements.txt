@@ -1,0 +1,9 @@
+pypdf==4.2.0
+numpy==1.26.4
+ollama==0.1.9
+langchain-community==0.2.0
+scikit-learn==1.4.2
+requests==2.31.0
+fastapi==0.110.3
+pydantic==2.7.1
+uvicorn==0.29.0

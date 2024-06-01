@@ -1,0 +1,100 @@
+############### PRINTING  0 OF 10 #################
+LEVEL: hard
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es parcialmente verdadera. Mientras que la biotecnología se utiliza en la agricultura para desarrollar cultivos resistentes a enfermedades y plagas, no se especifica concretamente cómo se hace uso de esta tecnología para lograr ese fin. Sin embargo, el texto proporcionado menciona la ingeniería genética como una aplicación prominente de la biotecnología en la agricultura, lo que sugiere que el estudiante tiene un buen entendimiento del papel de la biotecnología en el desarrollo de cultivos resistentes.
+LEVEL: medium
+SCORE: 1
+ARGUMENT: La respuesta es suficientemente correcta porque menciona la modificación de organismos vivos para producir medicamentos y alimentos modificados genéticamente, lo que es uno de los objetivos principales de la ingeniería genética. La explicación proporcionada es breve pero logra capturar el sentido general del objetivo principal de la ingeniería genética.
+LEVEL: easy
+SCORE: 1
+ARGUMENT: La respuesta del estudiante está correcta. La biotecnología se utiliza en la agricultura para desarrollar cultivos resistentes a enfermedades y plagas, lo que coincide con el texto de referencia.
+############### PRINTING  1 OF 10 #################
+LEVEL: hard
+SCORE: 1
+ARGUMENT: La respuesta del estudiante, 'Destiny's Child', es correcta según el texto proporcionado. Según la información presentada, Beyoncé actuó en Destiny's Child antes de ser solista.
+LEVEL: medium
+SCORE: 1
+ARGUMENT: La respuesta es correcta. Según el texto, Beyoncé actuó en varios concursos de canto y baile cuando era niña y saltó a la fama a finales de 1990 como cantante del grupo femenino de R & B Destiny's Child.
+LEVEL: easy
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es correcta, ya que según el texto, Beyoncé nació en Houston, Texas. El estudiante proporcionó la ciudad correcta donde Beyoncé se crió y nació.
+############### PRINTING  2 OF 10 #################
+LEVEL: hard
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es correcta, ya que Urbain Le Verrier fue uno de los astrónomos franceses que realizaron cálculos para predecir la existencia y posición de un planeta más allá de Urano. La explicación proporcionada en el texto coincide con la respuesta del estudiante, lo que indica una comprensión adecuada de los hechos históricos.
+LEVEL: medium
+SCORE: 1
+ARGUMENT: La respuesta es suficientemente correcta porque el descubrimiento del planeta Neptuno cerca de la posición predicha por Le Verrier y Adams validó la teoría de Newton, lo que coincide con el texto. El estudiante no menciona explícitamente la teoría de la gravitación, pero su respuesta se enfoca en el descubrimiento que confirmó la predicción de Newton.
+LEVEL: easy
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es correcta. La observación de Neptuno cerca de la posición predicha por Le Verrier y Adams es el resultado del cálculo realizado por ambos astrónomos en el siglo XIX, que finalmente llevó al descubrimiento de este planeta.
+############### PRINTING  3 OF 10 #################
+LEVEL: hard
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es suficientemente correcta, ya que reproduce la información presentada en el texto sobre cómo la inteligencia artificial analiza grandes conjuntos de datos médicos para identificar patrones y tendencias. No se observan errores o omisiones significativas.
+LEVEL: medium
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es correcta, ya que el texto indica explícitamente que la IA se utiliza en la medicina para mejorar el diagnóstico y tratamiento de enfermedades. La respuesta no es parcialmente verdadera ni incorrecta, por lo tanto, se le otorga un puntaje de 1 punto.
+LEVEL: easy
+SCORE: 1
+ARGUMENT: La respuesta del estudiante, 'La medicina', es suficientemente correcta. De acuerdo con el texto proporcionado, la inteligencia artificial se utiliza efectivamente en la medicina para mejorar el diagnóstico y tratamiento de enfermedades al analizar grandes conjuntos de datos médicos. La respuesta no es exactamente igual a la información textual, pero está claramente inspirada en ella y muestra una comprensión generalizada del tema.
+############### PRINTING  4 OF 10 #################
+LEVEL: hard
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es suficientemente correcta, ya que menciona la falta de un marco teórico unificado para modelar la cognición como uno de los principales desafíos en la simulación computacional de la cognición humana. Esta idea está directamente relacionada con el texto proporcionado, que también destaca la complejidad del cerebro humano y la falta de un marco teórico unificado para modelar la cognición. La respuesta del estudiante es precisa y refleja una comprensión básica del tema.
+LEVEL: medium
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es suficientemente correcta, ya que identifica correctamente el objetivo principal de la simulación computacional de la cognición humana como comprender mejor la mente humana y replicar sus capacidades en máquinas. La explicación proporcionada por el texto coincide con la respuesta del estudiante.
+LEVEL: easy
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es suficientemente correcta, ya que identifica correctamente el objetivo de la simulación computacional de la cognición humana como comprender mejor la mente humana y replicar sus capacidades en máquinas. La explicación proporcionada por el texto coincide con la respuesta del estudiante, lo que justifica un puntaje de 1 punto.
+############### PRINTING  5 OF 10 #################
+LEVEL: hard
+SCORE: 0
+ARGUMENT: La respuesta del estudiante menciona la irresponsabilidad social de los investigadores, lo que no está directamente relacionado con las jerarquías organizativas en el proceso de producción de conocimiento universitario y su aplicación en la sociedad. El texto proporciona una visión general sobre cómo el conocimiento universitario se produce y se aplica en la sociedad, pero la respuesta del estudiante no muestra un entendido profundo ni relación con ese proceso.
+LEVEL: medium
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es suficientemente correcta porque refleja la idea principal de que el conocimiento universitario es predominantemente disciplinar y relativamente descontextualizado con relación a las necesidades del mundo cotidiano. La explicación del estudiante es similar al texto proporcionado, lo que indica que ha entendido correctamente el concepto.
+LEVEL: easy
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es correcta. El texto describe el conocimiento universitario como predominantemente disciplinar, lo que coincide con la definición proporcionada por el estudiante.
+############### PRINTING  6 OF 10 #################
+LEVEL: hard
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es correcta al identificar la desconfianza en la seguridad de las vacunas como el principal motivo que algunas personas tienen para no vacunarse. La justificación proporcionada en el texto coincide con la respuesta del estudiante, lo que demuestra una comprensión adecuada de los argumentos a favor y en contra de las vacunas.
+LEVEL: medium
+SCORE: 1
+ARGUMENT: La respuesta es correcta porque el texto establece que, aunque las vacunas pueden tener efectos secundarios graves en casos extremadamente raros, el beneficio de vacunarse siempre compensa con creces el riesgo. El estudiante ha captado correctamente la idea principal del texto, que destaca la importancia de las vacunas y su seguridad.
+LEVEL: easy
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es correcta, ya que menciona diferentes tipos de efectos secundarios (leves, graves y muy graves) que pueden tener las vacunas. La justificación en el texto coincide con la respuesta del estudiante, lo que indica una comprensión adecuada de los efectos secundarios de las vacunas.
+############### PRINTING  7 OF 10 #################
+LEVEL: hard
+SCORE: 0
+ARGUMENT: La respuesta del estudiante menciona la esclerosis múltiple y el Alzheimer como efectos secundarios negativos de las vacunas, pero según el texto, estos efectos no se han demostrado científicamente. El estudio que relacionaba la vacuna de la triple vírica con el autismo fue falseado y no existió tal asociación. Por lo tanto, la respuesta del estudiante es incorrecta.
+LEVEL: medium
+SCORE: 0
+ARGUMENT: La respuesta del estudiante es incorrecta. El estudio publicado en The Lancet en 1998 no encontró una asociación causada entre la vacuna de la triple vírica y el autismo, sino que se descubrió que el autor del estudio había falseado los datos para crear esa asociación. Por lo tanto, no es correcto mencionar al autismo como una consecuencia negativa extendida por el 'boca a boca' y los medios.
+LEVEL: easy
+SCORE: 1
+ARGUMENT: La respuesta es correcta, el estudiante menciona específicamente el estudio publicado en The Lancet que relacionó la vacuna de la triple vírica con el autismo. El texto de referencia confirma que se trata del mismo estudio publicado en 1998 y posteriormente fue revelado que su autor había falseado los datos. La respuesta es suficientemente correcta, por lo que se le otorga un puntaje de 1.
+############### PRINTING  8 OF 10 #################
+LEVEL: hard
+SCORE: 0.5
+ARGUMENT: La respuesta del estudiante es parcialmente verdadera. Muestra una comprensión general de la continuidad entre seres humanos y animales, pero no profundiza lo suficiente en el concepto de antropomorfismo ni en su relación con la evolución y la inteligencia animal. Aunque menciona que el antropomorfismo no es tan malo como se piensa, no desarrolla una idea clara sobre cómo la continuidad entre seres humanos y animales se relaciona con la evolución y la inteligencia animal.
+LEVEL: medium
+SCORE: 1
+ARGUMENT: La respuesta es suficientemente verdadera porque el texto no critica la continuidad entre humanos y animales, sino que incluso sostiene que hay una hipótesis de que haya una continuidad entre ambos. La respuesta del estudiante solo menciona la negación de la continuidad, lo que no se aplica al texto.
+LEVEL: easy
+SCORE: 1
+ARGUMENT: La respuesta es correcta, ya que según el texto, Jenófanes se burló de la poesía de Homero porque describía a los dioses como si tuvieran aspecto humano. Por lo tanto, se puede concluir que Jenófanes es el filósofo griego que se burló de la poesía de Homero por esta razón.
+############### PRINTING  9 OF 10 #################
+LEVEL: hard
+SCORE: 1
+ARGUMENT: La respuesta es suficientemente correcta. El estudiante identifica correctamente el principal error en la teoría de frenología sobre el cerebro, que consiste en considerar que la función de cada parte diferenciada del cerebro no es independiente y que, en cambio, es una contribución a la función de sistemas mayores compuestos por estas partes separadas. La explicación proporcionada coincide con la información presentada en el texto.
+LEVEL: medium
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es 'Notable', lo que significa que la frenología tuvo una notable influencia en la ciencia y las humanidades. La explicación proporcionada por el estudiante es correcta, ya que se menciona en el texto que la frenología surgió como una curiosa mezcolanza de psicología temprana, neurociencia temprana y filosofía práctica, y tuvo una notable influencia en la ciencia y las humanidades a lo largo de la mayor parte del siglo XIX. La respuesta es suficientemente correcta, por lo que se otorga un puntaje de 1 punto.
+LEVEL: easy
+SCORE: 1
+ARGUMENT: La respuesta del estudiante es correcta. Franz Joseph Gall fundó la frenología, como se indica en el texto. La explicación del estudiante coincide con la información proporcionada en el texto y no contiene errores o inexactitudes.
