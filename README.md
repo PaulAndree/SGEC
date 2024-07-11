@@ -1,4 +1,4 @@
-# Question Generation system. last Version 1.0
+# Question Generation and Assessment System Enhanced by Language Models (Version 1.0)
 
 ## How to start:
 You can find the docker image of the system on:
